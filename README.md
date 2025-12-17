@@ -1,6 +1,6 @@
 # Feimin Wang's Academic Homepage
 
-This repository contains the source code for my personal academic website, hosted at: **[https://feiminw.github.io](https://feiminw.github.io)** 
+This repository contains the source code for my personal academic website, hosted at: **[https://feimaxjp.github.io](https://feimaxjp.github.io)** 
 
 I am a Master's student at Kyoto University focusing on Quantitative Analysis and AI.
 
